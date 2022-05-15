@@ -1,7 +1,7 @@
 ---
 layout: mypost
 title: Flex布局的一个bug
-categories: [前端]
+categories: [牛逼]
 ---
 
 最近在项目中发现 Flex 布局的一个 [bug](https://bugs.chromium.org/p/chromium/issues/detail?id=507397) ，使用 `flex-direction: column` 时容器的宽度无法被撑开
